@@ -1,6 +1,6 @@
-streamlit
 numpy
-matplotlib
-pandas
-firebase-admin
 datetime
+streamlit>=1.33
+firebase-admin>=6.5
+matplotlib>=3.8
+pandas>=2.2
